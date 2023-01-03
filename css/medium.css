@@ -1,0 +1,33 @@
+body {
+    font-family: 'PT Serif', serif;
+
+}
+.padding-top-93{
+    padding-top: 70px;
+}
+.padding-bottom-92{
+    padding-bottom: 92px;
+}
+.font-size{
+    font-size: 95px;
+    color:rgba(8, 8, 8, 1);
+}
+.bg-yellow{
+    background-color:#FFC017;
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.aside-buttons > li{
+    margin-bottom: 20px;
+}
+
+.border-top-dark{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
+
+.link-color > li > a {
+    color: rgba(117, 117, 117, 1);
+    text-decoration: none;
+}
